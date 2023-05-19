@@ -26,7 +26,7 @@
 
 ## About Me 🚀
 
-- :man_student: I am a pre-final year student of Electronics And Communication at Indian Institute of Information technology ,Surat .I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
+- :man_student: I am a final year student of Electronics And Communication at Indian Institute of Information technology ,Surat .I'm an open-source enthusiast, a learner and I'm deeply passionate about software development & innovation. I believe in the power of community.
 
 - :technologist: I am passionate about FullStack development, Machine Learning, Data Structures and Algorithms and I enjoy learning new things.
 
