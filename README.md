@@ -32,8 +32,7 @@
 
 - ❤️ I love open source. And Currently I am learning about how to contribute in open source.
 
-- :dart: 2022 Goal is to contribute more in open source.
-- :technologist: And try to participate in more hackathon.
+
 
 
 
