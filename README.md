@@ -1,5 +1,5 @@
 
-# <p align="center">Hey, I'm <a href="" target="_blank">Dhruvit!</a><img src="hi.gif" width="29px">
+# <p align="center">Hey, I'm <a href="" target="_blank">D7!</a><img src="hi.gif" width="29px">
 </p>
 
 <p align="center">
